@@ -1,5 +1,8 @@
-### Hi there 👋
+# What's Up! ☕☕
 
+<img>
+
+Hello guys, my name is **Eduardo Reche**, i'm a brazilian front-end developer who is passionate about hardware/technology, make sure to look below some of my habilities!
 <!--
 **RecheEduardo/RecheEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
