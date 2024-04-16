@@ -25,7 +25,7 @@
 
 ##
 
-<strong>• Atualmente sou</strong>
+<strong>• Formação Acadêmica</strong>
 
 Estudante do Instituto Federal de São Paulo<br> no curso de 
 Análise e Desenvolvimento de Sistemas (ADS) 
