@@ -1,19 +1,24 @@
-# What's Up! ☕☕
+<h1 align="center"><img width="20" height="20" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Bem Vindo! | <img width="20" height="20" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Welcome!</h1>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RecheEduardo/RecheEduardo/blob/main/readmegreetings.jpg" align="center">
 
-<img>
+<p align="justify"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Saudações amigos! meu nome é <strong>Eduardo Reche</strong>, um desenvolvedor front-end amante do hardware e da tecnologia, sempre buscando equilibrar a diversão com a profissionalidade, confere aqui embaixo alguns dos meus conhecimentos!</p>
+<p align="justify"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Hello guys, my name is <strong>Eduardo Reche</strong>, i'm a brazilian front-end developer who is passionate about hardware/technology, make sure to look below some of my habilities!</p>
+<br>
 
-Hello guys, my name is **Eduardo Reche**, i'm a brazilian front-end developer who is passionate about hardware/technology, make sure to look below some of my habilities!
-<!--
-**RecheEduardo/RecheEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Knowledges / Conhecimentos</h1>
+
+<strong>Languages and Frameworks</strong>
+
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" width="300px" align="right"><img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original.svg" />
+
+<strong>Currently learning / Atualmente aprendendo</strong>
+
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" /> <img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
+
