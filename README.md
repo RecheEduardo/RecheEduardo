@@ -30,7 +30,7 @@
 Estudante do Instituto Federal de São Paulo<br> no curso de 
 Análise e Desenvolvimento de Sistemas (ADS) 
 <br><br>
-<img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" />
+<a href="http://gru.ifsp.edu.br/"><img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" /></a>
 
 # Contato Pessoal / Personal Contact
 
