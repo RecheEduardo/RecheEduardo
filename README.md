@@ -4,7 +4,10 @@
 <p align="justify"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Saudações amigos! meu nome é <strong>Eduardo Reche</strong>, um desenvolvedor front-end <strong>amante do hardware e da tecnologia</strong>, sempre buscando equilibrar a diversão com a profissionalidade, confere aqui embaixo alguns dos meus conhecimentos!</p>
 <p align="justify"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Hello guys, my name is <strong>Eduardo Reche</strong>, i'm a brazilian front-end developer who is <strong>passionate about hardware/technology</strong>, make sure to look below some of my habilities!</p>
 
-<br>
+# Contato Pessoal / Personal Contact
+
+<a href = "mailto:eduardorechemartins2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardorechemartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <h1>Knowledges | Conhecimentos</h1>
 
 <strong>• Languages and Frameworks</strong>
@@ -22,6 +25,8 @@
 
 <img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" /> <img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
 <img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg"/>
+<img width="40" height="40" loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"/> 
 
 ##
 
@@ -32,8 +37,5 @@ Análise e Desenvolvimento de Sistemas (ADS)
 <br><br>
 <a href="http://gru.ifsp.edu.br/"><img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" /></a>
 
-# Contato Pessoal / Personal Contact
 
-<a href = "mailto:eduardorechemartins2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardorechemartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
