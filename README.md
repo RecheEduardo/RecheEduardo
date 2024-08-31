@@ -36,5 +36,13 @@ Análise e Desenvolvimento de Sistemas (ADS)
 <br><br>
 <a href="http://gru.ifsp.edu.br/"><img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" /></a>
 
+##
+
+[![card](https://github-readme-stats.vercel.app/api?username=RecheEduardo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![RecheEduardo](https://github-readme-stats.vercel.app/api/top-langs/?username=RecheEduardo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
