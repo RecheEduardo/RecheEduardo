@@ -7,9 +7,9 @@
 <img align="right" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 
 <div align="left">
-  <h3 align="center"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Saudações amigos! meu nome é <strong>Eduardo Reche</strong>, um desenvolvedor front-end <strong>amante do hardware e da tecnologia</strong>, sempre buscando equilibrar a diversão com a profissionalidade, confira no perfil alguns dos meus projetos e habilidades!</h3>
+  <p align="center"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Saudações amigos! meu nome é <strong>Eduardo Reche</strong>, um desenvolvedor front-end <strong>amante do hardware e da tecnologia</strong>, sempre buscando equilibrar a diversão com a profissionalidade, confira no perfil alguns dos meus projetos e habilidades!</p>
 
-<h3 align="center"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Hello guys, my name is <strong>Eduardo Reche</strong>, i'm a brazilian front-end developer who is <strong>passionate about hardware/technology</strong>, make sure to look some of my developing skills!</h3>
+<p align="center"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Hello guys, my name is <strong>Eduardo Reche</strong>, i'm a brazilian front-end developer who is <strong>passionate about hardware/technology</strong>, make sure to look some of my developing skills!</p>
 </div>
 
 <br><br>
