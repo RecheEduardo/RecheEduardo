@@ -1,10 +1,11 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem+vindo+ao+meu+perfil)" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem+vindo" />
+</p>
 
+---
 <img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/RecheEduardo/RecheEduardo/blob/main/design.png?raw=true" align="center">
 
-##
+---
 
 <img align="right" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 
@@ -72,7 +73,7 @@
 
 </div>
 
-###
+---
 
 <br>
 <div align="left">
