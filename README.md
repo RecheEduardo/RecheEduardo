@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem+vindo" />
 </p>
 
----
-<img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/RecheEduardo/RecheEduardo/blob/main/design.png?raw=true" align="center">
+<img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/RecheEduardo/RecheEduardo/blob/main/banner.png?raw=true" align="center">
 
 ---
 
