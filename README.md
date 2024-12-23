@@ -11,10 +11,10 @@
 <div align="left">
 
   ### Sobre mim
-  <p align="left"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Meu nome é Eduardo Reche, sou um desenvolvedor full stack apaixonado por hardware e tecnologia. Sempre busco equilibrar diversão e profissionalismo em meus projetos. Confira no meu perfil alguns dos trabalhos que já realizei e as habilidades que domino!</p>
+  <p align="left"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Meu nome é Eduardo Reche, sou um desenvolvedor full stack apaixonado por softwares e tecnologia. Sempre busco equilibrar diversão e profissionalismo em meus projetos. Confira no meu perfil alguns dos trabalhos que já realizei e as habilidades que domino!</p>
 
   ### About me
-<p align="left"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> My name is Eduardo Reche, and I’m a Brazilian full-stack developer with a passion for hardware and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!</p>
+<p align="left"><img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> My name is Eduardo Reche, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!</p>
 </div>
 
 <div>
